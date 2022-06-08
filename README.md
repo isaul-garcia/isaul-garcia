@@ -1,4 +1,4 @@
-[![isaulgarcia](https://raw.githubusercontent.com/isaul-garcia/isaul-garcia/main/resources/ig--banner.png)][1]
+[![isaulgarcia](https://raw.githubusercontent.com/isaul-garcia/isaul-garcia/main/resources/ig--banner-lined.png)][1]
 
 Hello!
 
